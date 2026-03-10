@@ -10,6 +10,18 @@
   <title>Motivation</title>
 </head>
 <body class='container center'>
+    <button id="sort-btn">SORT: OFF</button>
+      <form id="editing-form">
+      <div class="form-group">
+        <label for="edited-quote">Edit Quote</label>
+        <input name="edited-quote" type="text" class="form-control" id="edited-quote" placeholder="Edit your code here!">
+      </div>
+      <div class="form-group">
+        <label for="Author">Author</label>
+        <input name="author" type="text" class="form-control" id="author" placeholder="And the quote goes to...">
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
   <h1>My favorite quotes:</h1>
   <div>
     <ul id="quote-list">
@@ -33,3 +45,4 @@
   <script src="src/index.js"></script>
 </body>
 </html>
+
