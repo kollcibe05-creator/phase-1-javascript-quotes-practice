@@ -1,63 +1,54 @@
 {
   "quotes": [
     {
-      "id": "3",
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
+      "id": "778e",
+      "quote": "Ownership is everything. Own your mind and mind your own.",
+      "author": "Nipsey Hustle"
     },
     {
-      "id": "4",
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
+      "id": "9bb2",
+      "quote": "No such thing as a life that's better than yours",
+      "author": "J Cole"
     },
     {
-      "id": "5",
-      "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
-    },
-    {
-      "id": "7",
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "author": "Confucius"
-    },
-    {
-      "id": "9",
-      "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-      "author": "James Baldwin"
-    },
-    {
-      "id": "10",
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
-      "id": "11",
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
-      "id": "6b66",
-      "quote": "Ownership is everything. Own your mind and mind your own",
-      "author": "Nipsey Hustle",
-      "likes": []
-    },
-    {
-      "id": "7cde",
+      "id": "6f00",
       "quote": "Words are nothing more than a sound if everything is pronounced without any intention",
-      "author": "Kendrick Lamar",
-      "likes": []
+      "author": "Kendrick Lamar"
     },
     {
-      "id": "ecbe",
+      "id": "c6fc",
       "quote": "You can do anything you set your mind to man",
-      "author": "Eminem",
-      "likes": []
+      "author": "Eminem"
     },
     {
-      "id": "c6f6",
-      "quote": "You can do anything you set your mind to man",
-      "author": "Eminem",
-      "likes": []
+      "id": "770b",
+      "quote": "Until you make the unconscious conscious, it will direct your life and you will call it fate",
+      "author": "Carl Jung"
+    },
+    {
+      "id": "0b51",
+      "quote": "The consequences of an act affect the probability of its occurring again.",
+      "author": "B.F. Skinner"
+    },
+    {
+      "id": "41ec",
+      "quote": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+      "author": "Viktor Frankl"
+    },
+    {
+      "id": "c774",
+      "quote": "What a man can be, he must be.",
+      "author": "Abraham Maslow"
+    },
+    {
+      "id": "f3de",
+      "quote": "The line between good and evil is permeable and almost anyone can be induced to cross it.",
+      "author": "Philip Zimbardo"
+    },
+    {
+      "id": "6078",
+      "quote": "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
+      "author": "William James"
     }
   ],
   "likes": [
@@ -70,6 +61,566 @@
       "quoteId": 10,
       "id": "2",
       "createdAt": 1558524358
+    },
+    {
+      "id": "e6f1",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "b098",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "046a",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "d2f8",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "d01d",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "1540",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "02bf",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "6416",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "a5c9",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "9529",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "7048",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "4391",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "2b5d",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "5876",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "94bc",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "208d",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "f14a",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "f2ec",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "8fbd",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "3d6d",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "f0c1",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "eb87",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "3e28",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "f9a6",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "ee47",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "7f16",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "f54d",
+      "quoteId": null,
+      "createdAt": "3/10/2026"
+    },
+    {
+      "id": "c8da",
+      "quoteId": null,
+      "createdAt": "11:39:39 AM"
+    },
+    {
+      "id": "4358",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:41:47 AM"
+    },
+    {
+      "id": "8ff1",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:46:17 AM"
+    },
+    {
+      "id": "45ff",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:46:17 AM"
+    },
+    {
+      "id": "77c4",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:47:17 AM"
+    },
+    {
+      "id": "17e4",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:48:20 AM"
+    },
+    {
+      "id": "4aec",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:48:30 AM"
+    },
+    {
+      "id": "1160",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:54:36 AM"
+    },
+    {
+      "id": "1b55",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:54:37 AM"
+    },
+    {
+      "id": "41f9",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:54:38 AM"
+    },
+    {
+      "id": "e9e6",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:54:39 AM"
+    },
+    {
+      "id": "c1a7",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:54:40 AM"
+    },
+    {
+      "id": "9218",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:55:35 AM"
+    },
+    {
+      "id": "7bca",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:55:35 AM"
+    },
+    {
+      "id": "374b",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:55:35 AM"
+    },
+    {
+      "id": "19e5",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:55:36 AM"
+    },
+    {
+      "id": "bc50",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:55:36 AM"
+    },
+    {
+      "id": "4c3d",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:55:36 AM"
+    },
+    {
+      "id": "2066",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:55:36 AM"
+    },
+    {
+      "id": "f1a6",
+      "quoteId": null,
+      "createdAt": "3/10/2026 11:55:37 AM"
+    },
+    {
+      "id": "59d0",
+      "quoteId": null,
+      "createdAt": "3/10/2026 12:58:25 PM"
+    },
+    {
+      "id": "c8fd",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:18 PM"
+    },
+    {
+      "id": "a648",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:20 PM"
+    },
+    {
+      "id": "de2d",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:20 PM"
+    },
+    {
+      "id": "b3f1",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:21 PM"
+    },
+    {
+      "id": "7a76",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:21 PM"
+    },
+    {
+      "id": "4481",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:22 PM"
+    },
+    {
+      "id": "1e2c",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:22 PM"
+    },
+    {
+      "id": "f910",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:22 PM"
+    },
+    {
+      "id": "441c",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:22 PM"
+    },
+    {
+      "id": "771d",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:23 PM"
+    },
+    {
+      "id": "32c5",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:03:23 PM"
+    },
+    {
+      "id": "de07",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:25:52 PM"
+    },
+    {
+      "id": "bb14",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:25:52 PM"
+    },
+    {
+      "id": "5b1c",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:25:52 PM"
+    },
+    {
+      "id": "4ed5",
+      "quoteId": null,
+      "createdAt": "3/10/2026 1:25:53 PM"
+    },
+    {
+      "id": "9f81",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:39 PM"
+    },
+    {
+      "id": "887a",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:40 PM"
+    },
+    {
+      "id": "58ba",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:40 PM"
+    },
+    {
+      "id": "17aa",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:40 PM"
+    },
+    {
+      "id": "999e",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:41 PM"
+    },
+    {
+      "id": "39a9",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:42 PM"
+    },
+    {
+      "id": "dcfd",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:42 PM"
+    },
+    {
+      "id": "90d3",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:42 PM"
+    },
+    {
+      "id": "0c85",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:42 PM"
+    },
+    {
+      "id": "09c4",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:43 PM"
+    },
+    {
+      "id": "fddc",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:43 PM"
+    },
+    {
+      "id": "c2f2",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:43 PM"
+    },
+    {
+      "id": "1c65",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:44 PM"
+    },
+    {
+      "id": "6caa",
+      "quoteId": "778e",
+      "createdAt": "3/10/2026 1:49:45 PM"
+    },
+    {
+      "id": "2225",
+      "quoteId": "9bb2",
+      "createdAt": "3/10/2026 1:49:48 PM"
+    },
+    {
+      "id": "494d",
+      "quoteId": "9bb2",
+      "createdAt": "3/10/2026 1:49:49 PM"
+    },
+    {
+      "id": "f5f2",
+      "quoteId": "6f00",
+      "createdAt": "3/10/2026 1:49:51 PM"
+    },
+    {
+      "id": "6066",
+      "quoteId": "6f00",
+      "createdAt": "3/10/2026 1:49:51 PM"
+    },
+    {
+      "id": "9b30",
+      "quoteId": "6f00",
+      "createdAt": "3/10/2026 1:49:52 PM"
+    },
+    {
+      "id": "ac61",
+      "quoteId": "c6fc",
+      "createdAt": "3/10/2026 1:49:56 PM"
+    },
+    {
+      "id": "43a8",
+      "quoteId": "770b",
+      "createdAt": "3/10/2026 1:50:01 PM"
+    },
+    {
+      "id": "b139",
+      "quoteId": "770b",
+      "createdAt": "3/10/2026 1:50:01 PM"
+    },
+    {
+      "id": "1f29",
+      "quoteId": "770b",
+      "createdAt": "3/10/2026 1:50:02 PM"
+    },
+    {
+      "id": "ef22",
+      "quoteId": "770b",
+      "createdAt": "3/10/2026 1:50:02 PM"
+    },
+    {
+      "id": "dc9d",
+      "quoteId": "770b",
+      "createdAt": "3/10/2026 1:50:02 PM"
+    },
+    {
+      "id": "efcb",
+      "quoteId": "770b",
+      "createdAt": "3/10/2026 1:50:02 PM"
+    },
+    {
+      "id": "68f6",
+      "quoteId": "770b",
+      "createdAt": "3/10/2026 1:50:03 PM"
+    },
+    {
+      "id": "8fc1",
+      "quoteId": "770b",
+      "createdAt": "3/10/2026 1:50:03 PM"
+    },
+    {
+      "id": "c09a",
+      "quoteId": "770b",
+      "createdAt": "3/10/2026 1:50:04 PM"
+    },
+    {
+      "id": "72fb",
+      "quoteId": "0b51",
+      "createdAt": "3/10/2026 1:50:08 PM"
+    },
+    {
+      "id": "71c6",
+      "quoteId": "0b51",
+      "createdAt": "3/10/2026 1:50:08 PM"
+    },
+    {
+      "id": "c1a3",
+      "quoteId": "0b51",
+      "createdAt": "3/10/2026 1:50:08 PM"
+    },
+    {
+      "id": "8d82",
+      "quoteId": "0b51",
+      "createdAt": "3/10/2026 1:50:08 PM"
+    },
+    {
+      "id": "68ab",
+      "quoteId": "41ec",
+      "createdAt": "3/10/2026 1:50:14 PM"
+    },
+    {
+      "id": "9cb2",
+      "quoteId": "41ec",
+      "createdAt": "3/10/2026 1:50:14 PM"
+    },
+    {
+      "id": "53a8",
+      "quoteId": "c774",
+      "createdAt": "3/10/2026 1:50:16 PM"
+    },
+    {
+      "id": "9762",
+      "quoteId": "c774",
+      "createdAt": "3/10/2026 1:50:17 PM"
+    },
+    {
+      "id": "05d7",
+      "quoteId": "c774",
+      "createdAt": "3/10/2026 1:50:18 PM"
+    },
+    {
+      "id": "a718",
+      "quoteId": "c774",
+      "createdAt": "3/10/2026 1:50:18 PM"
+    },
+    {
+      "id": "b067",
+      "quoteId": "c774",
+      "createdAt": "3/10/2026 1:50:18 PM"
+    },
+    {
+      "id": "72a0",
+      "quoteId": "c774",
+      "createdAt": "3/10/2026 1:50:18 PM"
+    },
+    {
+      "id": "01e4",
+      "quoteId": "c774",
+      "createdAt": "3/10/2026 1:50:18 PM"
+    },
+    {
+      "id": "e571",
+      "quoteId": "c774",
+      "createdAt": "3/10/2026 1:50:19 PM"
+    },
+    {
+      "id": "611a",
+      "quoteId": "f3de",
+      "createdAt": "3/10/2026 1:50:22 PM"
+    },
+    {
+      "id": "63bb",
+      "quoteId": "6078",
+      "createdAt": "3/10/2026 1:50:25 PM"
+    },
+    {
+      "id": "05ed",
+      "quoteId": "6078",
+      "createdAt": "3/10/2026 1:50:26 PM"
+    },
+    {
+      "id": "e261",
+      "quoteId": "6078",
+      "createdAt": "3/10/2026 1:50:27 PM"
+    },
+    {
+      "id": "de4a",
+      "quoteId": "9bb2",
+      "createdAt": "3/10/2026 2:52:22 PM"
+    },
+    {
+      "id": "a1ed",
+      "quoteId": "6f00",
+      "createdAt": "3/10/2026 2:52:24 PM"
     }
   ]
 }
