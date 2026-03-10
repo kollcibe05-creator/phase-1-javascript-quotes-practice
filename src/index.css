@@ -4,3 +4,21 @@
 button {
   margin-right: 10px;
 }
+
+.btn-edit {
+  background-color: aqua;
+  color: blue;
+  border-radius: 5px;
+}
+.btn-edit:hover {
+  background-color: rgb(101, 236, 101);
+  border-radius: 0px;
+}
+#sort-btn {
+  position: static;
+  display:block;
+  background-color: black;
+  color: white;
+  margin-top: 5px;
+  margin-right: 0px;
+}
